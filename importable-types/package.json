@@ -1,0 +1,8 @@
+{
+  "name": "@types/importable-thing",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "main": "",
+  "types": "./index.d.ts"
+}
